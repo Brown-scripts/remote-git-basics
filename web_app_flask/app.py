@@ -69,6 +69,7 @@ if __name__ == '__main__':
 # commit to the database
 # render the student to the html page
 # add button to page for this functionality
-#  
+
+
 
 
